@@ -300,7 +300,7 @@ padding-bottom: 20px;}
             border-radius: 10px;
             background-color: none;}
 
-            .tk-500:hover{background-color: rgb(253, 188, 255);}
+            .tk-500:hover{background-color: rgb(199, 255, 188);}
 
             .tk-1000{
                 padding: 25px 20px;
@@ -357,12 +357,13 @@ text-align: center;}
 .sub-s-title{padding-bottom: 20px;
 text-align: center;}
 
-.sub-form{position: relative;
-text-align: center;}
+.sub-form{padding: 0;
+margin: 0;}
 
-.sub-btn{position: absolute;
-right: 0;}
+.sub-btn{padding: 5px;
+margin: 0;}
 
-.sub-form input{}
+.subscribe{display: inline-block;}
+
 
 .sub-foot{text-align: center;}
