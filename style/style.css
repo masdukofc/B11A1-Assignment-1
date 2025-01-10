@@ -99,7 +99,7 @@ justify-content: space-evenly;}
 .vision-box{padding: 25px;
 padding-bottom: 50px;
 width: 250px;
-height: 300px;
+height: 250px;
 border-radius: 16px;}
 
 .vision-box-1{background-color: rgba(84, 144, 245, 0.2);}
@@ -340,3 +340,5 @@ text-align: center;}
 
 .sub-s-title{padding-bottom: 20px;
 text-align: center;}
+
+.sub-foot{text-align: center;}
