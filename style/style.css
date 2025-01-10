@@ -135,6 +135,26 @@ color: white;}
 .vision-btn-3{background-color: rgba(255, 194, 57, 1);}
 
 
+/* Quote Section Style*/
+
+.quote{margin: 50px;
+padding: 50px;
+width: 80%;
+border-radius: 24px;
+background-color: whitesmoke;
+border: 1px solid rgba(14, 14, 14, 0.15);
+}
+
+
+.quote-body{margin: 0px;
+padding-bottom: 10px;
+padding-left: 0;}
+
+.quote-img{position: absolute;
+    top: 1300px;
+    left: 100px;}
+
+
 /* Recent News Section Style */
 
 .news-head{
@@ -335,10 +355,19 @@ width: 80%;
 margin: 50px;
 border-radius: 24px;}
 
+
 .sub-title{padding-bottom: 20px;
 text-align: center;}
 
 .sub-s-title{padding-bottom: 20px;
 text-align: center;}
+
+.sub-form{position: relative;
+text-align: center;}
+
+.sub-btn{position: absolute;
+right: 0;}
+
+.sub-form input{}
 
 .sub-foot{text-align: center;}
