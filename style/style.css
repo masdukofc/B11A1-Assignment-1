@@ -444,20 +444,18 @@ padding-top:10px ;}
 
 /* Footer Style */
 
-.footer-container{background-color: whitesmoke;}
+.footer-container{background-color: #F5F5F5;}
 
 .foot-logos{display: flex;
 justify-content: center;
-padding-top: 10px;
-padding-bottom: 10px;
+padding-bottom: 5px;
 gap: 10px;}
 
 .foot-title{text-align: center;
-    padding-top: 10px;
-    padding-bottom: 10px;}
+    padding-top: 5px;}
 
 .hr{padding-top: 10px;
-padding-bottom: 10px;
+padding-bottom: 5px;
 color: rgba(14, 14, 14, 0.1);
 width: 50%;
 margin: 0 auto}
