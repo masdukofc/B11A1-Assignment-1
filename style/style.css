@@ -66,6 +66,54 @@ text-align: start;}
 .banner-bttn{text-align: start;}
 
 
+/* Pillars Style */
+
+.pillar-head{
+    padding: 25px;
+    width: 80%;
+    text-align: start;
+}
+
+.pillar-container{justify-content: center;}
+
+
+.pillar-head-title
+    {justify-content: flex-start;
+    width: 80%;
+    margin: 0 auto;
+    align-items: center;
+    text-align: justify;}
+
+.pillar-sub-title{justify-content: flex-start;
+    width: 80%;
+    margin: 0 auto;
+    align-items: center;
+    text-align: justify;
+    padding-top: 20px;
+    padding-bottom: 25px;
+color: rgba(14, 14, 14, 0.7);}
+
+.pillar-content{display: flex;
+justify-content: center;
+gap: 30px;}
+
+.pillar-box{padding: 25px;
+padding-bottom: 50px;
+width: 200px;
+height: 200px;
+border-radius: 16px;
+background-color: rgb(238, 238, 238);
+border: 1px solid rgb(250, 250, 250);}
+
+.pillar-title{font-weight: bold;
+color: rgba(14, 14, 14, 0.8);
+padding-bottom: 10px;
+padding-top: 10px;}
+
+.pillars-of-bd{padding-bottom: 100px;}
+
+
+
 /* Vision Section Style */
 
 .vision-head{
@@ -262,6 +310,8 @@ padding: 25px;}
 
 .text-color{color: #0E0E0E;}
 
+.pillar-title-color{color: rgba(14, 14, 14, 0.8)}
+
 
 
 /* Donate Section Style*/
@@ -313,11 +363,12 @@ padding-bottom: 20px;}
                 .tk-1000:hover{background-color: rgb(189, 234, 255);}
                 
 
-.amount-boxes{display: flex;
-width: 80%;
-margin: 50px;
-justify-content: space-around;
-text-align: center;}
+.amount-boxes{
+display: flex;
+gap: 35px;
+margin-bottom: 20px;
+margin-top: 20px;
+justify-content: center;}
 
 .enter-custom-amount{
     border-bottom: 1px solid rgba(14, 14, 14, 0.15);
@@ -328,7 +379,8 @@ text-align: center;}
 background-color: whitesmoke;
 justify-content: center;}
 
-.enter-amount{text-align: center;}
+.enter-amount{text-align: center;
+justify-content: center;}
 
 .done-btn{padding: 10px 15px;
 border: none;
@@ -371,9 +423,12 @@ border-radius: 0px 10px 10px 0px;}
 
 .subscribe{display: inline-block;}
 
-input{border: none;
-padding: 15px;
-border-radius: 10px 0px 0px 10px;}
+.sub-input{border: none;
+padding: 15px 50px;
+border-radius: 10px 0px 0px 10px;
+color: rgba(14, 14, 14, 0.3);}
+
+sub-input{}
 
 
 .sub-foot{text-align: center;
