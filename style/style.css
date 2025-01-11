@@ -434,8 +434,26 @@ padding: 15px 50px;
 border-radius: 10px 0px 0px 10px;
 color: rgba(14, 14, 14, 0.3);}
 
-sub-input{}
-
-
 .sub-foot{text-align: center;
 padding-top:10px ;}
+
+
+/* Footer Style */
+
+.footer-container{background-color: whitesmoke;}
+
+.foot-logos{display: flex;
+justify-content: center;
+padding-top: 10px;
+padding-bottom: 10px;
+gap: 10px;}
+
+.foot-title{text-align: center;
+    padding-top: 10px;
+    padding-bottom: 10px;}
+
+.hr{padding-top: 10px;
+padding-bottom: 10px;
+color: rgba(14, 14, 14, 0.1);
+width: 50%;
+margin: 0 auto}
