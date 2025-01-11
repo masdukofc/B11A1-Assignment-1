@@ -357,13 +357,24 @@ text-align: center;}
 .sub-s-title{padding-bottom: 20px;
 text-align: center;}
 
-.sub-form{padding: 0;
-margin: 0;}
+.sub-form{
+align-items: center;
+justify-content: center;
+display: flex;}
 
-.sub-btn{padding: 5px;
-margin: 0;}
+.sub-btn{border: none;
+padding: 15px;
+background-color: rgba(0, 106, 80, 1);
+color: white;
+font-weight: 700;
+border-radius: 0px 10px 10px 0px;}
 
 .subscribe{display: inline-block;}
 
+input{border: none;
+padding: 15px;
+border-radius: 10px 0px 0px 10px;}
 
-.sub-foot{text-align: center;}
+
+.sub-foot{text-align: center;
+padding-top:10px ;}
