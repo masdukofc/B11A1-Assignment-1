@@ -82,7 +82,8 @@ text-align: start;}
     width: 80%;
     margin: 0 auto;
     align-items: center;
-    text-align: justify;}
+    text-align: justify;
+font-weight: bold;}
 
 .pillar-sub-title{justify-content: flex-start;
     width: 80%;
